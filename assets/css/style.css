@@ -143,7 +143,7 @@ p {
 
 /* .search-engine-optimization  */
 /* optimized this step and used conformity */
-.small-pic {
+.small-pic { 
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -185,13 +185,22 @@ p {
     max-height: 200px;
 } */
 
-/* .search-engine-optimization h2 { */
-.section_setup h2 {
+
+/* set text for section headers with one call out */
+.text_setup {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* repedative code, made it universal above*/
+/* .section_setup h2 { */
+
+/* .search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+} */
+
+/* repedative code, made it universa l above*/
+
 /* .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -200,7 +209,7 @@ p {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-} */
+}  */
 
 .footer {
     padding: 30px;
